@@ -1,0 +1,6 @@
+--2014-01-08 23:08:55--  http://graph.facebook.com//picture?type=
+Resolving graph.facebook.com (graph.facebook.com)... 31.13.81.65, 2a03:2880:f010:401:face:b00c:0:1
+Connecting to graph.facebook.com (graph.facebook.com)|31.13.81.65|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2014-01-08 23:08:55 ERROR 400: Bad Request.
+
