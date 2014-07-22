@@ -1,5 +1,5 @@
 #!/usr/bin/zsh
 
 sudo mount /mnt/passport/ext2
-sudo mount /mnt/passport/exfat
+sudo mount /mnt/passport/fat32
 
